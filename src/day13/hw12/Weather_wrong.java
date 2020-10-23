@@ -1,6 +1,6 @@
-package day12.hw12;
+package day13.hw12;
 
-public class Weather {
+public class Weather_wrong {
     public static void main(String[] args) {
         System.out.println(cityWeather("Berlin", 20)); // -> 26
         System.out.println(cityWeather("London", 17)); // -> 23

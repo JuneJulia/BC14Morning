@@ -3,6 +3,7 @@ package day11;
 public class NestedLoopsIntro {
     public static void main(String[] args) {
         rectangle(5, 7);
+
     }
 
     private static void rectangle(int a, int b) {

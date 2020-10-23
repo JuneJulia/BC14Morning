@@ -1,4 +1,4 @@
-package hw11;
+package day12.hw11;
 
 public class HomeWork11_12 {
 
